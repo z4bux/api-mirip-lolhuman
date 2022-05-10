@@ -20,7 +20,7 @@
 
 - 👼 My name is Zeeone 
 - 🗣️ I am 17 years old 
-- 🔭 I am not programmer
+- 🔭 I am not programmer[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/z4bux/api-mirip-lolhuman)
 
 ## ```Connect with me```
 <p align="center">
